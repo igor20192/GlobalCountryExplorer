@@ -1,2 +1,3 @@
 .env
 country.log
+__pycache__
