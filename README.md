@@ -47,6 +47,7 @@ The script will fetch data from the API and display it in the console in a tabul
 
 When you run the script, the output will be displayed in a table format like this:
 
+```bash
 +-----------------+----------------+-------------------------------------------------------------+
 | Country Name    | Capital        | Flag URL                                                    |
 +-----------------+----------------+-------------------------------------------------------------+
@@ -55,7 +56,7 @@ When you run the script, the output will be displayed in a table format like thi
 | Algeria         | Algiers        | https://flagcdn.com/w320/dz.png                             |
 | ...             | ...            | ...                                                         |
 +-----------------+----------------+-------------------------------------------------------------+
-
+```
 ## Logging
 
 The application uses Python's logging module to log information and errors. The logs include details about fetching data, any HTTP errors, connection issues, and more.
