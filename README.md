@@ -18,7 +18,7 @@ CountryInfoFetcher is a Python project designed to fetch and display information
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/CountryInfoFetcher.git
+    git clone https://github.com/igor20192/CountryInfoFetcher.git
     cd CountryInfoFetcher
     ```
 
